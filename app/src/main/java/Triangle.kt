@@ -5,6 +5,6 @@ class Triangle(val sides: List<Double>) {
     val dSideCA = sides[2]
 
     fun setTriangleType(list: MutableList<Double>) {
-
+        //TODO triangle determination
     }
 }
