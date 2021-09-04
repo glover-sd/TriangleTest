@@ -126,4 +126,16 @@
         app:layout_constraintVertical_bias="0.569"
         app:srcCompat="@drawable/ic_launcher_foreground" />
 
+    <Button
+        android:id="@+id/btnUpdateTriangle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Triangle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.774" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
